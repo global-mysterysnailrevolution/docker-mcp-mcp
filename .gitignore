@@ -1,0 +1,19 @@
+# Old/duplicate files
+QUICK-START.bat
+gist-version.ps1
+one-click-setup.ps1
+setup-docker-mcp.ps1
+SEND-TO-FRIEND.md
+configs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
