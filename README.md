@@ -11,7 +11,7 @@ Instead of 5 MCP servers with 50 tools flooding your AI's context (~20,000 token
 ### Windows (PowerShell)
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/docker-mcp-setup/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/global-mysterysnailrevolution/docker-mcp-mcp/main/install.ps1 | iex
 ```
 
 Or download and double-click `install.bat`

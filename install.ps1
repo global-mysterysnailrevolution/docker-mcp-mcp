@@ -1,7 +1,7 @@
 # Docker MCP Gateway - One-Click Setup
 # 
 # Quick install:
-#   irm https://raw.githubusercontent.com/YOUR_USERNAME/docker-mcp-setup/main/install.ps1 | iex
+#   irm https://raw.githubusercontent.com/global-mysterysnailrevolution/docker-mcp-mcp/main/install.ps1 | iex
 #
 # Or download and run:
 #   powershell -ExecutionPolicy Bypass -File install.ps1
